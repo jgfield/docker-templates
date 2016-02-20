@@ -10,7 +10,7 @@
   </Description>
   <Registry>https://registry.hub.docker.com/u/jgfield/mineos-node/</Registry>
   <GitHub>https://github.com/hexparrot/mineos-node</GitHub>
-  <Repository>hexparrot/mineos-node</Repository>
+  <Repository>jgfield/mineos-node</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
  <Environment>
