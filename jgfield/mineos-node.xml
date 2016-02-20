@@ -8,7 +8,7 @@
     [b][span style='color: #E80000;']Directions:[/span][/b][br]
     [b]/var/games/minecraft[/b] : set this path to where you wish all the Minecraft Server items to be stored. Should be your app folder.[br][br]
   </Description>
-  <Registry>https://registry.hub.docker.com/u/hexparrot/minecraft-mineos/</Registry>
+  <Registry>https://registry.hub.docker.com/u/jgfield/mineos-node/</Registry>
   <GitHub>https://github.com/hexparrot/mineos-node</GitHub>
   <Repository>hexparrot/mineos-node</Repository>
   <BindTime>true</BindTime>
