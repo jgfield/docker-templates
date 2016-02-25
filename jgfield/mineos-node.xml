@@ -32,6 +32,26 @@
         <ContainerPort>25565</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
+      <Port>
+        <HostPort>25566</HostPort>
+        <ContainerPort>25566</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+      <Port>
+        <HostPort>25567</HostPort>
+        <ContainerPort>25567</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+      <Port>
+        <HostPort>25568</HostPort>
+        <ContainerPort>25568</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+      <Port>
+        <HostPort>25569</HostPort>
+        <ContainerPort>25569</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
     </Publish>
   </Networking>
   <Data>
